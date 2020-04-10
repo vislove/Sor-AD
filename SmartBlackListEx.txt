@@ -1,7 +1,7 @@
 !TITLE=Sor-AD
 !VER=202004101815
-!URL=https://github.com/privacy-protection-tools/anti-AD
-!TOTAL_LINES=6
+!URL=https://github.com/vislove/Sor-AD
+!TOTAL_LINES=12
 ||https://kuyunzy.co^
 ||phpstudyimg.com ^
 ||https://umeng.com
