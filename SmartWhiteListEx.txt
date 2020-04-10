@@ -1,0 +1,5 @@
+!TITLE=Sor-AD
+!VER=202004101815
+!URL=https://github.com/privacy-protection-tools/anti-AD
+!TOTAL_LINES=1
+@@||sp0.baidu.com^$important

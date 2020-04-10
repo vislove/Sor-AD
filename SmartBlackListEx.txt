@@ -1,0 +1,16 @@
+!TITLE=Sor-AD
+!VER=202004101815
+!URL=https://github.com/privacy-protection-tools/anti-AD
+!TOTAL_LINES=6
+||https://kuyunzy.co^
+||phpstudyimg.com ^
+||https://umeng.com
+||https://umengcloud.com
+||https://tagtic.cn
+||cdn.phpstudyimg.com/*
+||gaoqing.la/wp-content/uploads/2020/01/kaiboer.gif
+||file.elecfans.com/web1/M00/B8/D0/*
+||elecfans.com/skin-2012/images/*
+||elecfans.com^$popup,third-party
+||gaoqing.la#div(container)
+||gaoqing.la##center
