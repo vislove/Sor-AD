@@ -14,5 +14,5 @@
 ||elecfans.com^$popup,third-party
 ||gaoqing.la##.row
 ||gaoqing.la###head
-||gaoqing.la##.container row
 ||gaoqing.la##center
+||gaoqing.la/wp-content/uploads/2020/01/kaiboer.gif

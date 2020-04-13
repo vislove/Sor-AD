@@ -3,3 +3,5 @@
 !URL=https://github.com/vislove/Sor-AD
 !TOTAL_LINES=1
 @@||sp0.baidu.com^$important
+@@||client-upload.cn-shanghai.log.aliyuncs.com^$important
+@@||iqiyi.com^$important
