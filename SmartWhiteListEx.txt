@@ -5,3 +5,5 @@
 @@||sp0.baidu.com^$important
 @@||client-upload.cn-shanghai.log.aliyuncs.com^$important
 @@||iqiyi.com^$important
+@@||ai.taobao.com^$important
+@@||boxer.baidu.com^$important
