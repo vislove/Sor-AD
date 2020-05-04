@@ -1,9 +1,11 @@
 !TITLE=Sor-AD
 !VER=202004101815
 !URL=https://github.com/vislove/Sor-AD
-!TOTAL_LINES=1
+!TOTAL_LINES=7
 @@||sp0.baidu.com^$important
 @@||client-upload.cn-shanghai.log.aliyuncs.com^$important
 @@||iqiyi.com^$important
 @@||ai.taobao.com^$important
 @@||boxer.baidu.com^$important
+@@||tongji.baidu.com^$important
+@@||click.simba.taobao.com^$important

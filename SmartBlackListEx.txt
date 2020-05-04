@@ -1,7 +1,7 @@
 !TITLE=Sor-AD
 !VER=202004101815
 !URL=https://github.com/vislove/Sor-AD
-!TOTAL_LINES=12
+!TOTAL_LINES=15
 ||kuyunzy.co^
 ||phpstudyimg.com ^
 ||umeng.com
@@ -16,3 +16,4 @@
 ||gaoqing.la###head
 ||gaoqing.la##center
 ||gaoqing.la/wp-content/uploads/2020/01/kaiboer.gif
+||https://www.javbus.com/ads/*
