@@ -13,3 +13,7 @@
 @@||zhanzhang.bj.bcebos.com^$important
 @@||adashbc.ut.taobao.com^$important
 @@||wl.jd.com^$important
+@@||ping.huatuo.qq.com^$important
+@@||prf.hn^$important
+@@||dataflow.biliapi.com^$important
+@@||cm.bilibili.com^$important
