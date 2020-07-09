@@ -17,3 +17,4 @@
 @@||prf.hn^$important
 @@||dataflow.biliapi.com^$important
 @@||cm.bilibili.com^$important
+@@||pv.sohu.com^$important
