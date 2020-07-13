@@ -18,3 +18,7 @@
 @@||dataflow.biliapi.com^$important
 @@||cm.bilibili.com^$important
 @@||pv.sohu.com^$important
+@@||pv.sohu.com^$important
+@@||mcs.snssdk.com^$important
+@@||sf1-ttcdn-tos.pstatp.com^$important
+@@||i.snssdk.com^$important
